@@ -1,0 +1,9 @@
+max_questions = 15
+
+categories = [
+  "Who's that  ̶P̶o̶k̶é̶m̶o̶n̶",
+  "tl;dr",
+  "Stadtbummel",
+  "Flora und Fauna",
+  "Stay Classy"
+]
