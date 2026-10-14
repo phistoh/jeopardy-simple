@@ -1,0 +1,116 @@
+max_questions = 15
+
+[[categories]]
+name = "Kartenkunde"
+
+[[categories.questions]]
+question = "Frage 1"
+answer = "Antwort 1"
+
+[[categories.questions]]
+question = "Frage 2"
+answer = "Antwort 2"
+
+[[categories.questions]]
+question = "Frage 3"
+answer = "Antwort 3"
+
+[[categories.questions]]
+question = "Frage 4"
+answer = "Antwort 4"
+
+[[categories.questions]]
+question = "Frage 5"
+answer = "Antwort 5"
+
+[[categories]]
+name = "tl;dr"
+
+[[categories.questions]]
+question = "Frage 1"
+answer = "Antwort 1"
+
+[[categories.questions]]
+question = "Frage 2"
+answer = "Antwort 2"
+
+[[categories.questions]]
+question = "Frage 3"
+answer = "Antwort 3"
+
+[[categories.questions]]
+question = "Frage 4"
+answer = "Antwort 4"
+
+[[categories.questions]]
+question = "Frage 5"
+answer = "Antwort 5"
+
+[[categories]]
+name = "*squish*"
+
+[[categories.questions]]
+question = "Frage 1"
+answer = "Antwort 1"
+
+[[categories.questions]]
+question = "Frage 2"
+answer = "Antwort 2"
+
+[[categories.questions]]
+question = "Frage 3"
+answer = "Antwort 3"
+
+[[categories.questions]]
+question = "Frage 4"
+answer = "Antwort 4"
+
+[[categories.questions]]
+question = "Frage 5"
+answer = "Antwort 5"
+
+[[categories]]
+name = "⊢:.α,β∈1.⊃:α∩β=Λ.≡.α∪β∈2."
+
+[[categories.questions]]
+question = "Frage 1"
+answer = "Antwort 1"
+
+[[categories.questions]]
+question = "Frage 2"
+answer = "Antwort 2"
+
+[[categories.questions]]
+question = "Frage 3"
+answer = "Antwort 3"
+
+[[categories.questions]]
+question = "Frage 4"
+answer = "Antwort 4"
+
+[[categories.questions]]
+question = "Frage 5"
+answer = "Antwort 5"
+
+[[categories]]
+name = "Kakophonie"
+
+[[categories.questions]]
+question = "Frage 1"
+answer = "Antwort 1"
+
+[[categories.questions]]
+question = "Frage 2"
+answer = "Antwort 2"
+
+[[categories.questions]]
+question = "Frage 3"
+answer = "Antwort 3"
+
+[[categories.questions]]
+question = "Frage 4"
+answer = "Antwort 4"
+
+[[categories.questions]]
+question = "Frage 5"
+answer = "Antwort 5"

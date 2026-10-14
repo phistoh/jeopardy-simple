@@ -5,12 +5,13 @@ from PySide6.QtWidgets import QApplication
 
 from game import Game
 
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "config",
         nargs="?",
-        default="config.toml",
+        default="questions.toml",
         help="Path to the TOML configuration file",
     )
     args = parser.parse_args()
@@ -21,6 +22,7 @@ def main():
     game.window.show()
 
     sys.exit(app.exec())
+
 
 if __name__ == "__main__":
     main()

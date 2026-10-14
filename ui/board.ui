@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Question Board</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="enabled">
@@ -58,9 +58,7 @@ QLabel {
 }
 
 QWidget#centralwidget {
-    background-image: url(&quot;ui/bg.jpg&quot;);
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: #0f0639;
 }</string>
    </property>
    <layout class="QVBoxLayout" name="verticalLayout">
@@ -176,6 +174,9 @@ QWidget#centralwidget {
         </property>
         <property name="alignment">
          <set>Qt::AlignmentFlag::AlignCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
         </property>
        </widget>
       </item>
@@ -339,6 +340,9 @@ QWidget#centralwidget {
         <property name="alignment">
          <set>Qt::AlignmentFlag::AlignCenter</set>
         </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
        </widget>
       </item>
       <item row="3" column="1">
@@ -448,6 +452,9 @@ QWidget#centralwidget {
         </property>
         <property name="alignment">
          <set>Qt::AlignmentFlag::AlignCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
         </property>
        </widget>
       </item>
@@ -819,6 +826,9 @@ QWidget#centralwidget {
         <property name="alignment">
          <set>Qt::AlignmentFlag::AlignCenter</set>
         </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
        </widget>
       </item>
       <item row="0" column="1">
@@ -850,6 +860,9 @@ QWidget#centralwidget {
         </property>
         <property name="alignment">
          <set>Qt::AlignmentFlag::AlignCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
         </property>
        </widget>
       </item>

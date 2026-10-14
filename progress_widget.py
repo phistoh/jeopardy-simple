@@ -1,6 +1,7 @@
 from PySide6.QtCore import Qt
-from PySide6.QtGui import QPainter, QColor
+from PySide6.QtGui import QColor, QPainter
 from PySide6.QtWidgets import QWidget
+
 
 class SegmentedProgressBar(QWidget):
     def __init__(self, parent=None):
@@ -14,7 +15,7 @@ class SegmentedProgressBar(QWidget):
         self.border_color = QColor("#ffffff")
         self.border_width = 2
 
-        self.setMinimumHeight(20)
+        self.setMinimumHeight(50)
 
     def setRange(self, minimum, maximum):
         self.maximum = maximum
@@ -33,19 +34,13 @@ class SegmentedProgressBar(QWidget):
             return
 
         gap = 4
-        segment_width = (
-            self.width() - gap * (self.maximum - 1)
-        ) / self.maximum
+        segment_width = (self.width() - gap * (self.maximum - 1)) / self.maximum
 
         for i in range(self.maximum):
             x = round(i * (segment_width + gap))
             width = round(segment_width)
 
-            color = (
-                self.active_color
-                if i < self.value
-                else self.inactive_color
-            )
+            color = self.active_color if i < self.value else self.inactive_color
 
             pen = painter.pen()
             pen.setColor(self.border_color)
