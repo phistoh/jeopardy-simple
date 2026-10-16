@@ -1,0 +1,116 @@
+max_questions = 15
+
+[[categories]]
+name = "Kartenkunde"
+
+[[categories.questions]]
+question = "Dimhollow Crypt, Half-Moon Mill, Blue Palace, Helgen, Whiterun"
+answer = "Skyrim"
+
+[[categories.questions]]
+question = "Ayutthaya, Suravasa, Petra, Ilios, Route 66, King's Row"
+answer = "Overwatch"
+
+[[categories.questions]]
+question = "Final Fantasy VII"
+answer = "Gelnika, Icicle Inn, Mideel, Train Graveyard, Sector 5, Nibelheim"
+
+[[categories.questions]]
+question = "Train, Ancient, Mirage, Inferno, Overpass, Dust II"
+answer = "Counter-Strike"
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories]]
+name = "tl;dr"
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories]]
+name = "*squish*"
+
+[[categories.questions]]
+question = "Nachdem er seinen jüngeren Kollegen vor einem Raubüberfall schützte und dabei ums Leben kam, wurde Satoru Mikami als Schleim in einer anderen Welt wiedergeboren. Welche Farbe hat sein neuer, amorpher Körper?"
+answer = "Hellblau"
+
+[[categories.questions]]
+question = "Welchem Pokémon gab Clemonts (Citron) Schwester Bonnie (Heureka) den Namen Squishy?"
+answer = "Zygarde"
+
+[[categories.questions]]
+question = "Aperture Sciences entwickelte dieses blaue Gel als Diät-Puddingersatz. Allerdings schaffte es es nicht in die Läden. Um welches Gel handelt es sich?"
+answer = "Repulsion Gel / Rückstoßgel"
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories]]
+name = "⊢:.α,β∈1.⊃:α∩β=Λ.≡.α∪β∈2."
+
+[[categories.questions]]
+question = "Welcher griechische Mathematiker legte mit seinem Werk 'Elemente' den Grundstein der Geometrie?"
+answer = "Euklid"
+
+[[categories.questions]]
+question = "Ein im Pen & Paper gebräuchlicher W8 bezeichnet ein achtseitiges, konvexes Polyeder und hat demnach eine Euler-Charakteristik von 2. Wie viele Kanten hat ein solcher 'Würfel'?"
+answer = "12 (Notiz: 6 Ecken - 12 Kanten + 8 Flächen = 2)"
+
+[[categories.questions]]
+question = "Welcher österreichische Mathematiker—der unter anderem versuchte, die Existenz Gottes mithilfe der Modallogik zu beweisen—starb letztendlich an Unterernährung, weil er aufgrund starker Paranoia nur Nahrung zu sich nahm, die seien Frau vor seinen Augen gekocht hat?"
+answer = "Kurt Gödel"
+
+[[categories.questions]]
+question = "Welcher britische Mathematiker, der nicht ganz unbeteiligt an der Niederlage des Deutschen Reiches im Zweiten Weltkrieg war, bekam nach seinem Collegeabschluss einen Teddybär zu Weihnachten geschenkt, den er Porgy taufte?"
+answer = "Alan Turing"
+
+[[categories.questions]]
+question = "Welcher deutsche Mathematiker wandte sich gegen Ende des 20. Jahrhunderts christlicher Mystik und Esoterik zu und kündigte das jüngste Gericht an, bevor er sich kurze Zeit später zurückzog und in vollständiger Isolation lebte?"
+answer = "Alexander Grothendieck"
+
+[[categories]]
+name = "Kakophonie"
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""
+
+[[categories.questions]]
+question = ""
+answer = ""

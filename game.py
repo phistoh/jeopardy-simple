@@ -25,6 +25,7 @@ class QuestionDialog(QDialog):
         super().__init__(parent)
 
         self.setWindowTitle("Question")
+        self.setMinimumSize(720, 480)
 
         layout = QVBoxLayout(self)
 
